@@ -1,0 +1,8 @@
+uint32 dishwasher_id
+#specify which dishwasher we want to use
+---
+#define outcome information
+uint32 total_dishes_cleaned
+---
+#define the feedback message 
+float32 percent_complete
